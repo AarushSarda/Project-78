@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+h1 {
+    color: darkcyan;
+    font-family: monospace;
+    font-style: italic;
+}
+h4 {
+    color: darkgoldenrod;
+    font-family: roboto;
+    font-style: italic;
+}
